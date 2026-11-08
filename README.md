@@ -10,7 +10,17 @@ Super Tux Doom is a standalone, retro-style boomer shooter designed as a commerc
 
 ## What is Super Tux Doom?
 
-Super Tux Doom is built to bring back the pure dopamine of 90s FPS chaos. Developed to run seamlessly on the Nelyx Engine (as well as standard Vanilla-compatible Doom source ports, that is basically everything), that offers a very faithful, light for any modern hardware and easy out of the box experience.
+Super Tux Doom is a retro first-person shooter inspired by classic Doom, the golden age of Linux games, and the colorful computer aesthetics of the late 1990s and early 2000s.
+
+
+
+Explore corrupted digital landscapes, fight closed-source enemies, and experience a familiar computer world in a way it was (never) meant to be experienced.
+
+
+
+Featuring MIDI, fast-paced boomer shooter combat, and a healthy amount of digital chaos.
+
+Made for the [Nelyx Engine](https://github.com/NelyxDev/nelyx-engine) in mind for an awesome out-of-the-box experience!
 
 ---
 
