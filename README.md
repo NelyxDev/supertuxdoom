@@ -54,10 +54,10 @@ When the IWAD comes out:
 
 Super Tux Doom is developed by **Nelyx**, created out of a passion for id Tech 1 and retro boomer shooters. 
 
-> Special thanks to id Software, TeamTNT, and the entire Doom modding community for keeping classic FPS gaming alive.
+> Special thanks to id Software, TeamTNT, Freedoom Team and the entire Doom modding community for keeping classic FPS gaming alive.
 
 ---
 
 ## License
 
-Super Tux Doom resources and code are distributed under the **BSD 3-Clause License**. See the LICENSE file for details.
+Super Tux Doom resources and code are distributed under the **BSD 3-Clause License** and made on top of the [Freedoom project](https://github.com/freedoom/freedoom). See the LICENSE file for details.
